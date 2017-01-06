@@ -1,0 +1,20 @@
+﻿  source.cpp
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(172): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(175): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(183): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(186): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(188): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(305): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(297): warning C4101: 'hBM': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(272): warning C4101: 'y0': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(272): warning C4101: 'y': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(272): warning C4101: 'x': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(300): warning C4101: 'Pens': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(272): warning C4101: 'x0': unreferenced local variable
+c:\users\carter\documents\учебка\прога\прога_курсач\finish\finish\source.cpp(272): warning C4101: 'z0': unreferenced local variable
+  finish.vcxproj -> C:\Users\Carter\Documents\Учебка\Прога\Прога_курсач\finish\Debug\finish.exe
